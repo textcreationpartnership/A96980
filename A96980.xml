@@ -1,0 +1,1600 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A chronological account of the age of the world at the birth of every one of the Ancient Fathers, from Adam to the Flood of Noah, the kings of Judah, the captivity of Babilon, and the end thereof, till the death of the Messiah to which are added several remarks concerning the end of the first six thousand years of this world's-age, and what may be expected for a thousand years thence next following, and some thoughts concerning the end of the world. As also a brief exposition of the thirteenth of the Revelations: much differing from all that ever was before it. Wherein is sett forth; first, who the two beasts therein mentioned are. Secondly, when they began. Thirdly, how long they are to continue. Fourthly, when their end shall be. Wherein that [my]stical number of 666, is fully explained. By William Wright of Colledge-Green, Dublin.</title>
+            <author>Wright, William, 18th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96980</idno>
+            <idno type="STC">Wing W3714</idno>
+            <idno type="STC">ESTC R217352</idno>
+            <idno type="EEBO-CITATION">99895234</idno>
+            <idno type="PROQUEST">99895234</idno>
+            <idno type="VID">152782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2320:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A chronological account of the age of the world at the birth of every one of the Ancient Fathers, from Adam to the Flood of Noah, the kings of Judah, the captivity of Babilon, and the end thereof, till the death of the Messiah to which are added several remarks concerning the end of the first six thousand years of this world's-age, and what may be expected for a thousand years thence next following, and some thoughts concerning the end of the world. As also a brief exposition of the thirteenth of the Revelations: much differing from all that ever was before it. Wherein is sett forth; first, who the two beasts therein mentioned are. Secondly, when they began. Thirdly, how long they are to continue. Fourthly, when their end shall be. Wherein that [my]stical number of 666, is fully explained. By William Wright of Colledge-Green, Dublin.</title>
+                  <author>Wright, William, 18th cent.</author>
+               </titleStmt>
+               <extent>[2], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Whalley, next door to the Flee[ce] in St. Nicholas-street, and are to be sold by the book-sellers of Dublin,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1700</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The titlepage is a cancellans. The cancellandum, which reads: 'A chronological account of the world: in which is shewed, the age of the world ..', is dated 1700.</note>
+                  <note>With a postscript, in which the author declares that: "In the printing of this small chronicle, I found that it did not fill two sheets of paper; therefore (with the advice of the printer,) I added something which I thought convenient to be known, to fill up the second sheet; .. when I had so done, I thought these two sheets too little to be published alone; and therefore I have added to them, .. A brief exposition of the thirteenth chapter of the Revelation; ..".</note>
+                  <note>Marginal notes.</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2320 appears to be misbound with leaf C2 and C3 following title page and lacks all after p. [20]; title page is dated 1700.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Chronology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152782:1" rendition="simple:additions"/>
+            <p>A <hi>Chronological Account</hi> OF THE Age of the World; At the Birth of every one of the <hi>Ancient Fathers,</hi> from <hi>Adam</hi> to the <hi>Flood</hi> of <hi>Noah,</hi> the Kings of <hi>Judah,</hi> the <hi>Captivity</hi> of <hi>Babilon,</hi> and the End there<g ref="char:EOLhyphen"/>of, till the Death of the <hi>Meſſiah</hi> To which are Added Several Remarks concerning the <hi>End</hi> of the <hi>Firſt Six Thouſand Years</hi> of this World's-Age, and what may be expected for a <hi>Thouſand Years</hi> thence next following, and ſome thoughts concerning the End of the World. As Alſo <hi>A Brief Expoſition</hi> OF THE Thirteenth of the Revelations: <hi>Much differing from all that ever was before it.</hi> Wherein is Sett forth; <hi>Firſt,</hi> Who the TWO BEASTS therein men<g ref="char:EOLhyphen"/>tioned are. <hi>Secondly,</hi> When they began. <hi>Thirdly,</hi> How long they are to Continue. <hi>Fourthly,</hi> When their End ſhall be. Wherein that M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtical Number of 666, is <hi>fully Explained.</hi> By <hi>William Wright</hi> of <hi>Colledge-Green, Dublin.</hi>
+            </p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN:</hi> Printed by <hi>J.</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in St. <hi>Nicholas cholas-ſtreet,</hi> and are to be Sold <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <hi>Dublin,</hi> 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152782:2"/>
+            <head>To the Reverend the Provoſt Vice-Provoſt, Fellows and Schollers, of Trinity Colledge in DUBLIN.</head>
+            <opener>
+               <salute>Reverend Sirs,</salute>
+            </opener>
+            <p>I Am your Tenant, even almoſt under the Droppings of your Houſe<g ref="char:punc">▪</g> and although unknown to many of you, yet ready to Serve the meaneſt of you, in any thing in my Power; having but a ſmall Portion of what you have attained to. Nevertheleſs, my <hi>Experience</hi> as to length of Time is Double, (I do believe to the Oldeſt of you) being above Eighty One Years of Age: Having ſeen more Changes and Revolutions in the World, then you have done; which cauſed me to ſearch what has been done before my Time; and alſo to conſider, what Ground we have in the <hi>Holy Scriptures;</hi> to know and believe what may be expected for the time to come: and though it be too late for me to think, to attain to ſuch advantages, as the meaneſt of you Excel me in; yet if he that had but one Talent, had Improved it, he had not been Rejected by his Lord; <hi>Matthew</hi> 25. 15. And as <hi>Peter</hi> ſaid to the <hi>Lame-Man</hi> Acts 3, <hi>Silver and Gold have I none, but ſuch as he had, he freely gave him.</hi> So I ſay, <hi>Tongues, Languages, Arts, Sciences, Rhetorick,</hi> and <hi>Eloquence</hi> I have none; <hi>but ſuch as I have I humbly preſent unto you;</hi> and although there is nothing herein, but what you may eaſily find out by Searching as I have done; yet by the method I have taken, it may be Serviceable in ſparing ſome Labour, in the ready finding out of every thing, or Prooff therein mentioned at the very firſt ſight. which if Accepted and Approved of by You, may In<g ref="char:EOLhyphen"/>courage him further to proceed. Who is</p>
+            <closer>
+               <salute>Reverend Sirs</salute>
+               <signed>your meaneſt and moſt Humble Servant. William Wright.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:152782:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll who have not, nor ever ſhall</hi> Worſhip <hi>the</hi> Beaſt <hi>or his</hi> Image, <hi>whoſe Names <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re Written in</hi> The Book of Life, <hi>of what Perſwaſſion ſoever they be, Grace, Health and Peace be given from him who was, and is, and is to come; the</hi> Almighty: <hi>and from</hi> Jeſus Chriſt <hi>the Faithful Witneſs, and Firſt-Fruits of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em that Slept.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>T is the General Uſe of Authors and Writers of Books, to Dedicate <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them to ſome Great or Noble Perſon or other; from whom they either <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have Recieved, or expect to Recieve, ſome Favourable Gratuitie, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard or Preferment; and ſome (it may be) doth it out of Flattery and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pocriſie, to pleaſe Men that are in Great Places; to the End they may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſteemed or preferr'd by them.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome Dedicate their Books to thoſe they Love beſt, or to ſuch as they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w or Believe will take moſt delight in the Subject their Boook Treats of; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch I moſt Commend; and hereby Follow their Example, in Dedi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing this my Strange and Small Piece, to thoſe whom I Judge to be the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Fit and moſt Proper Judges amongſt Men in this matter; not that all every one, whoſe Names are Written in the <hi>Book of Life,</hi> are <hi>Proper Judges</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his caſe; for it is not given to all ſuch to Underſtand or Know this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat Miſtery. Neither was it to be Revealed to any till towards the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. (As in <hi>Daniel</hi> 12. 9.) which is now drawing near. But as it Differeth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m all that went before it, ſo it hath no Dependancy upon the Judgment Opinion of any Perſon whatſoever that ever yet Handled this <hi>Text,</hi> or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rit upon this <hi>Chapter:</hi> ſo I have I hope, Built my Work upon that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and firm Foundation, that God hath given forth by his <hi>Holy Spirit</hi> to the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ophets</hi> and <hi>Holy-Men</hi> of Old; I mean the Scriptures of Truth. what I have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd there for my Purpoſe, as to the opening this Miſtery, I have, I hope, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Special Aſſiſtance of the True Spirit of God, made Uſe of, for the bet<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Clearing and Confirming of what is writ in the following Diſcourſe. Ne<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>theleſs I make uſe of Authentick Hiſtory, ſuch as agrees and accords with
+<pb facs="tcp:152782:3"/> the Scriptures. Nay I make uſe of ſome, that not any of the former Expo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ever made uſe of; and it may be, that ſome will think it very ſtrange, I ſhould make uſe of the <hi>Alcoran</hi> of <hi>Mahomet,</hi> to prove the <hi>Latter Beaſt,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the very <hi>Image</hi> of the <hi>Firſt.</hi> But to ſuch I ſay, <hi>Try all Things, Read and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſider with True <g ref="char:V">Ʋ</g>nderſtanding,</hi> (if God hath given it) and with Impartial<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and withal keep Prejudice out of your Mind; and be equal in your Thou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like a true Ballance, which doth Juſtice to all that trys it: wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which, no Man ſhall ever Reap the Profit which otherwiſe by a <hi>Meek</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>byaſſed Mind,</hi> he may (by the Bleſſing of God) do in whatſoever he Rea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> Therefore I pray obſerve, that the Text tells us plainly, <hi>That there were Two B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that did ariſe, the firſt out of the Sea, Rev.</hi> 13. 1. <hi>The Second out of the E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> verſe 11. Theſe <hi>Two Beaſts</hi> cannot be both <hi>One,</hi> as many Famous &amp; Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed Writers of this Subject hath ſaid. Which hereafter ſhall be named unto y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who all of them, make both the <hi>Two Beaſts</hi> to be one Perſon, or one by <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ceſſions of Perſons which cannot be.</p>
+            <p>But <hi>Mr. Naper,</hi> who of all the reſt I have Named, was the Second or T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that Writ of this Chapter, (as hereafter may appear,) he did Gueſs at it, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Arguments Paraphraſical, Expoſition, Analyſis, Solution, Notes, Rea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Hiſtorical Amplifications, and Applications he even fills up his Book; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereby even Darkens the <hi>Text;</hi> ſo that it is made more Dark by his W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing than without it.</p>
+            <p>Now all of the ſaid Writers make the <hi>Latter Beaſt</hi> one &amp; the ſame wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Firſt;</hi> which argues, that every one of them Succeſſively had their Depend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (I am afraid) one upon another: the Latter on the Former; not duely <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſidering the True foundation that all ought to Build upon, rather than <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Opinions of other Men.</p>
+            <p>I do believe, there's not one True Underſtanding <hi>Chriſtian</hi> that has Rea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or any of the aforeſaid <hi>Expoſitions</hi> (ſo called upon this Thirteenth Chap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that can, or will ſafely ſay, they do believe their <hi>Expoſition</hi> to be the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sence and Meaning of the <hi>Text;</hi> notwithſtanding they are Covered &amp; C<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed over with ſeveral un-neceſſary Words, (as is before mentioned) ſome <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> one ſorts of words hard to be underſtood, and ſome other ſorts which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nothing to the true meaning of the Text, nor to the Underſtanding of ſuc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> want that degree of Learning which they had; and ſome if not all, by w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> placing the Beginning or Riſe of theſe two <hi>Beaſts,</hi> do, and muſt needs E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to their ending: for ſo long as the one that came up out of the <hi>Sea,</hi> cam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:152782:3"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore the other that Roſe out of the <hi>Earth,</hi> ſo long ſhall the <hi>Latter</hi> continue <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on the <hi>Earth</hi> after the <hi>Firſt</hi> be Deſtroyed, I do verily Beileve, except thoſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Days that God will ſhorten for his Elects ſake, as <hi>Chriſt</hi> ſaith, <hi>Mat<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w</hi> 24. 22. Now that theſe <hi>Two Beaſts,</hi> which all the aforeſaid <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poſitors</hi> and divers more, would Joyn together, or have the Actions both fulfilled in one Perſon, or in one Power, or in the Succeſſion one Perſon upholding that Power: I don't only prove the con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry, (for the very Letter of the Scriptures ſufficiently proves it) but I alſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, that theſe <hi>Two Beaſts</hi> were mentioned in ſeveral Scriptures in the <hi>Old <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ament</hi> by ſeveral names, long before ever they appeared in the World; and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at their Actions ſhould be: for otherwiſe it is a thing Incredible, that the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tter Beaſt</hi> mentioned at the Eleventh verſe, (and ſo to the end of the Chap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,) which was to do ſuch Great and Strange things, that the <hi>Holy Spirit</hi> of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> (which revealed all to thoſe that Writ the Scriptures,) ſhould not make <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ention of this <hi>Second Beaſt</hi> as well as the <hi>Firſt;</hi> therefore on the contrary, I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> believe, that he was both mentioned and made known to the <hi>Prophets</hi> of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld; and in particular to <hi>Ezekiel, Daniel</hi> and to <hi>Zechariah,</hi> and to others, a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve a Thouſand Years before either of theſe <hi>Two Beaſts</hi> appeared in the World, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſo by theſe <hi>Prophets</hi> made Known to us, if we can but believe them; and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve any meaſure of that Spirit in us, to underſtand them, which they had.</p>
+            <p>
+               <hi>Object.</hi> Now ſome may think, that we who now Live, (or others after us,) <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many Ages and Generations ſince theſe Miſteries were Foretold, that it ſhould <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> harder for any Perſon in this Age to underſtand them now, than it was for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe that then Lived when they were newly ſpoken.</p>
+            <p>
+               <hi>Anſwer.</hi> In Anſwer to which, I recomend the Reader to theſe ſeveral Scrip<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>res beforementioned as <hi>Jer.</hi> 23. 20. and <hi>Chap.</hi> 30. 24. <hi>Dan.</hi> 12. 4. 7. 9, as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſo theſe that follow: <hi>Ezekiel</hi> 38. 8. <hi>After many Days thou ſhalt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> viſited in the Latter Years</hi> &amp;c. Theſe words ſeem to be ſpoken <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Deſtruction of the <note n="*" place="margin">Magog</note> 
+               <hi>Latter</hi> of theſe <hi>Two Beaſts,</hi> mentioned <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the following Diſcourſe; to wit, the <hi>Turk</hi> or Succeſſor of <hi>Mahomet.</hi> But for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant of <hi>Printing</hi> they were not Known but to a very few in this World. And <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Daniel</hi> 10. 14 there the <hi>Angel</hi> makes <hi>Daniel</hi> to underſtand what ſhall befal <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is People in the Latter Days; for yet the Viſion is for many Days ſaith the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngel</hi> (as much as to ſay for many Years) then to come, and now above Two <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>houſand one Hundred and Forty Four Years ſince thy People, ſaith the <hi>Angel</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Daniel,</hi> (meaning the <hi>Jews,</hi> he himſelf being one of them) for whom moſt
+<pb facs="tcp:152782:4"/> certainly God has a Bleſſing in ſtore, after the End and Deſtruction<g ref="char:punc">▪</g> 
+               <hi>Two Beaſts</hi> that are Reigning.</p>
+            <p>Likewiſe in <hi>Joel</hi> 2. 28. 29. <hi>And it ſhall come to paſs afterwards, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pour out my Spirit upon all Fleſh; to wit upon Old Men, Young Men, Ser<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Handmaids, Jews and Gentiles</hi> &amp;c. all ſorts.</p>
+            <p>
+               <hi>Object.</hi> But it may be Admired by ſome, why the <hi>Firſt</hi> of theſe <hi>Two Beaſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing the Greateſt <hi>Idolator</hi> in the World, and the Greateſt <hi>Perſecuto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the beſt of <hi>Chriſt</hi>'s Flock; that God ſhould ſuffer him to Live ſo long, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not to Deſtroy him as he did <hi>Pharoah;</hi> he having Deſtroyed ſo many <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>lions of God's beſt Servants;</hi> as by his means have been <hi>Murdered, Maſſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Martyred.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> But let all ſuch conſider, that God always was, is, and ever wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as good as his word; &amp; punctual in his promiſes; and he has declared to all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that <hi>this Beaſt muſt continue One Thouſand Two Hundred and Sixty Days;</hi> w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Men of all Perſwations, underſtand to be <hi>Years:)</hi> and God will not de<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him of his Limited and Appointed Time, which He himſelf has Appoi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for it may be it is all the Joyful Portion that <hi>Beaſt</hi> ſhall have: Neverthele<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is filling up the meaſure of his Iniquity all the while, as is the other <hi>Beaſt</hi> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>Therefore, Let all wait in Faith, and with Patience, with Humilitie True Submiſſion to God ſaying, <hi>Thy Kingdom come, Thy will be done in Eart<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it is in Heaven;</hi> for he will in his own Appointed Time, bring all to End <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hath determined. And as he Remembered the unkindneſs of <hi>Ameleck</hi> t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> People <hi>Iſrael</hi> above Four Hundred Years, till the Sins of <hi>Ameleck</hi> were at full, 1 <hi>Sam.</hi> 15. 23. So aſſuredly will God do with theſe <hi>Two Beaſts</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his appointed time ſhall come; and their <hi>Crying Sins</hi> are at the Height, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Abominations come to the Full:</hi> then will be the Time that God will re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with them, when his Promiſe is fulfilled concerning them and their appo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Time Expired.</p>
+            <p>
+               <hi>In the mean time many ſhall run to and fro, and Knowledge ſhall be Incre<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Daniel</hi> the 12. 14.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152782:4"/>
+            <head>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nological Account of the Years of the WORLD;</head>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m <hi>Adam,</hi> to the Birth of every one of the Ancient Fathers of the Right<g ref="char:EOLhyphen"/>ous Line to the Flood of <hi>Noah;</hi> who was the Tenth from <hi>Adam,</hi> and ſo on to <hi>Abraham</hi> who was the Tenth from <hi>Noah,</hi> and the Twentieth from <hi>Adam,</hi> and ſo on to the Death and Suffering of the <hi>Meſiah,</hi> who then fulfilled the Promiſe made by the Father to <hi>Adam</hi> 4000 Years before: Proved by the Scriptures of Truth in the Method following.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>their Birth</cell>
+                     <cell>Proved.</cell>
+                     <cell>worlds Age</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>ADam</hi> Created the 1ſt Year of world</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>he Begat <hi>Seth</hi> when he was</cell>
+                     <cell>130</cell>
+                     <cell>
+                        <hi>Gen,</hi> 5. 3.</cell>
+                     <cell>0130</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Seth</hi> being 105, Begat <hi>Enos</hi>
+                     </cell>
+                     <cell>105</cell>
+                     <cell>verſe 6.</cell>
+                     <cell>0235</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>
+                        <hi>Enos</hi> at his age of 90, Begat <hi>Cainan</hi>
+                     </cell>
+                     <cell>090</cell>
+                     <cell>verſe 9.</cell>
+                     <cell>0325</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>thence to <hi>Mehelael</hi>
+                     </cell>
+                     <cell>070</cell>
+                     <cell>verſe 12.</cell>
+                     <cell>0395</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>thence to <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Jared</hi>
+                     </cell>
+                     <cell>065</cell>
+                     <cell>verſe 15.</cell>
+                     <cell>0460</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>thence to <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Enoch</hi>
+                     </cell>
+                     <cell>162</cell>
+                     <cell>verſe 18</cell>
+                     <cell>0622</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>thence to <hi>Methuſala</hi>
+                     </cell>
+                     <cell>065</cell>
+                     <cell>verſe 21</cell>
+                     <cell>0687</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>thence to <hi>Lamech</hi>
+                     </cell>
+                     <cell>187</cell>
+                     <cell>verſe 25</cell>
+                     <cell>0874</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>thence to <hi>Noah,</hi> the Tenth from <hi>Adam</hi>
+                     </cell>
+                     <cell>182</cell>
+                     <cell>verſe 28.</cell>
+                     <cell>1056</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>thence to <hi>Shem, Ham</hi> &amp; <hi>Japhet</hi>
+                     </cell>
+                     <cell>500</cell>
+                     <cell>verſe 32</cell>
+                     <cell>1556</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>thence to the Flood</cell>
+                     <cell>100</cell>
+                     <cell>
+                        <hi>Gen.</hi> 7. 11.</cell>
+                     <cell>1656</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>thence to <hi>Arphaxad</hi> after the Flood</cell>
+                     <cell>002</cell>
+                     <cell>Chap. 11. 10.</cell>
+                     <cell>1658</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>thence to <hi>Selah</hi>
+                     </cell>
+                     <cell>035</cell>
+                     <cell>verſe 12</cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>thence to <hi>Eber</hi>
+                     </cell>
+                     <cell>030</cell>
+                     <cell>verſe 14</cell>
+                     <cell>1723</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>thence to <hi>Peleg</hi>
+                     </cell>
+                     <cell>034</cell>
+                     <cell>verſe 16</cell>
+                     <cell>1757</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>thence to <hi>Rew</hi>
+                     </cell>
+                     <cell>030</cell>
+                     <cell>verſe 18</cell>
+                     <cell>1787</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>thence to <hi>Serug</hi>
+                     </cell>
+                     <cell>032</cell>
+                     <cell>verſe 20</cell>
+                     <cell>1819</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>thence to <hi>Nahor</hi>
+                     </cell>
+                     <cell>030</cell>
+                     <cell>verſe 22</cell>
+                     <cell>1849</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>thence to <hi>Terah</hi>
+                     </cell>
+                     <cell>029</cell>
+                     <cell>verſe 24</cell>
+                     <cell>1878</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>thence to <hi>Abraham</hi> the 20th from <hi>Adam</hi>
+                     </cell>
+                     <cell>070</cell>
+                     <cell>verſe 26</cell>
+                     <cell>1948</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>from his birth to his Call out of <hi>Caldea</hi>
+                     </cell>
+                     <cell>052</cell>
+                     <cell> </cell>
+                     <cell>2000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Noah</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ed till <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 58 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ar of <hi>A<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>ham</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <hi>Gen.</hi> 9. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</cell>
+                     <cell>Now is the World Two Thouſand Years Old, at which time God renew<g ref="char:EOLhyphen"/>ed his Promiſe to <hi>Abraham,</hi> which he had made to <hi>Adam</hi> Two Thouſand Years before, ſaying to <hi>Abraham</hi> that in
+<pb n="4" facs="tcp:152782:5"/> thee ſhall all the Families of the Earth be Bleſſed.</cell>
+                     <cell> </cell>
+                     <cell>Chap. 12. 3. &amp; Chap. 18. 18. &amp; Chap, 22. 18.
+<pb n="4" facs="tcp:152782:5"/> 
+                        <hi>Gen.</hi> 12. 3.</cell>
+                     <cell> </cell>
+                  </row>
+                  <pb facs="tcp:152782:4"/>
+                  <pb facs="tcp:152782:4"/>
+                  <pb n="4" facs="tcp:152782:5"/>
+                  <row>
+                     <cell>
+                        <hi>Sodom deſroyed in Anno Mundi</hi> 2047.</cell>
+                     <cell>From <hi>Abrams</hi> Age of 52 to <hi>Iſaac</hi>'s birth</cell>
+                     <cell>048</cell>
+                     <cell>
+                        <hi>Gen.</hi> 25. 26.</cell>
+                     <cell>20<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>now is <hi>Abram</hi> 100. thence to <hi>Jacob</hi>
+                     </cell>
+                     <cell>060</cell>
+                     <cell> </cell>
+                     <cell>2<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Jacob</hi> ſtood before <hi>Pharoah</hi> at his age of</cell>
+                     <cell>130</cell>
+                     <cell>Chap. 47. 9. 28.</cell>
+                     <cell>22<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>after which <hi>Moſes</hi> was Born</cell>
+                     <cell>135</cell>
+                     <cell>
+                        <hi>Exod.</hi> 2. 2</cell>
+                     <cell>23<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>He led Iſrael out of <hi>Egpyt</hi> when he was</cell>
+                     <cell>080</cell>
+                     <cell>
+                        <hi>Exod.</hi> 7. 7.</cell>
+                     <cell>24<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>He led Iſrael in the Wilderneſs afterwa.</cell>
+                     <cell>040</cell>
+                     <cell>
+                        <hi>Deut.</hi> 2, 7.</cell>
+                     <cell>24<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Joſhua</hi> Conquered &amp; Ruled</cell>
+                     <cell>040</cell>
+                     <cell>
+                        <hi>Joſh.</hi> 23. 1.</cell>
+                     <cell>25<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>the Elders that out-lived him</cell>
+                     <cell>027</cell>
+                     <cell>
+                        <hi>Judges</hi> 2. 7.</cell>
+                     <cell>25<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>they ſin againſt God &amp; he brought <hi>Chu<g ref="char:EOLhyphen"/>ſhan</hi> K. of <hi>Meſopotamia</hi> againſt them for</cell>
+                     <cell>008</cell>
+                     <cell>Chap,</cell>
+                     <cell>25<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Othniel</hi> Subdued him &amp; Ruled Iſrael for</cell>
+                     <cell>040</cell>
+                     <cell>verſe 11.</cell>
+                     <cell>26<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>then <hi>Eglon</hi> K. of <hi>Moab</hi> oppreſſed them</cell>
+                     <cell>018</cell>
+                     <cell>verſe 14.</cell>
+                     <cell>26<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Left-handed <hi>Ehud</hi> ſlew <hi>Eglon</hi> &amp; Ruled</cell>
+                     <cell>080</cell>
+                     <cell>verſe 30.</cell>
+                     <cell>27<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Jabin</hi> K. of <hi>Canaan</hi> oppreſſed them</cell>
+                     <cell>020</cell>
+                     <cell>Chap. 4. 3.</cell>
+                     <cell>27<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Delivered by <hi>Debora</hi> &amp; <hi>Barac,</hi> ſhe judged</cell>
+                     <cell>040</cell>
+                     <cell>Chap. 5. 31</cell>
+                     <cell>27<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>The <hi>Midianites</hi> oppreſs grieveouſly for</cell>
+                     <cell>007</cell>
+                     <cell>Chap. 6.</cell>
+                     <cell>27<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Subdued by <hi>Gideon</hi> who Judged them</cell>
+                     <cell>040</cell>
+                     <cell>Chap. 8. 28</cell>
+                     <cell>28<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Abimelech</hi> Ruled Wickedly for</cell>
+                     <cell>003</cell>
+                     <cell>Chap. 9. 22</cell>
+                     <cell>28<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Tolo</hi> Judged 23, <hi>Jair</hi> 22. together</cell>
+                     <cell>045</cell>
+                     <cell>Chap. 10. 23</cell>
+                     <cell>28<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>the <hi>Philiſtines</hi> &amp; <hi>Amonites</hi> oppreſs for</cell>
+                     <cell>018</cell>
+                     <cell>Chap. 11</cell>
+                     <cell>28<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Subdued by <hi>Jephthah</hi> who Judged</cell>
+                     <cell>006</cell>
+                     <cell>Chap. 12, 7</cell>
+                     <cell>28<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Ibſon</hi> Judged 7 Years. <hi>Elon</hi> 10 in all</cell>
+                     <cell>017</cell>
+                     <cell>verſe 13. 14</cell>
+                     <cell>29<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Abdon</hi> Judged 8</cell>
+                     <cell>008</cell>
+                     <cell>Chap. 13. 1,</cell>
+                     <cell>29<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>The <hi>Philiſtines</hi> oppreſs again</cell>
+                     <cell>040</cell>
+                     <cell> </cell>
+                     <cell>29<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>About this time is <hi>Sampſon</hi> Born, who is ſaid to Judge Iſrael 20 Years, and <hi>Ely</hi> is ſaid to Judge 40; but both was while the <hi>Philiſtines</hi> Rul'd, there<g ref="char:EOLhyphen"/>fore not to be here Accounted: <hi>Ely</hi> Judged as High-Prieſt only.</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Judges</hi> 14. 4. Chap. 15. 9, 10,</cell>
+                     <cell>29<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1 <hi>Sam.</hi> 7. 15 &amp; Chap. 8. 5,</cell>
+                     <cell>3<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Now <hi>Samuel</hi> Succeeds <hi>Ely,</hi> and he and <hi>Saul</hi> Ruled &amp; Judged <hi>Iſrael</hi> for 40, after the 40 Years that the <hi>Philiſtines</hi> Ruled. after which <hi>David</hi> Reigned</cell>
+                     <cell>040</cell>
+                     <cell>1 <hi>Kings</hi> 2, 11</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>040</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Now <hi>Solomon</hi> after he had Reigned 3</cell>
+                     <cell>003</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <pb facs="tcp:152782:5"/>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Years, begun to Build the Temple, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 3 Years being added to the Years ſince they left <hi>Egypt,</hi> and it makes juſt 580, in <hi>Anno Mundi</hi> 3033.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3033</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>But to proceed, Soloman Reigned afterward 37</cell>
+                     <cell>037</cell>
+                     <cell>1 <hi>Kings</hi> 11. 42</cell>
+                     <cell>3070</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Rehoboam</hi> Reigned</cell>
+                     <cell>017</cell>
+                     <cell>Chap. 14. 21</cell>
+                     <cell>3087</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Abijam</hi> or <hi>Abijah</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>2 <hi>Chron.</hi> 13. 2</cell>
+                     <cell>3090</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Aſa</hi> Reigned</cell>
+                     <cell>41</cell>
+                     <cell>Chap. 16. 13</cell>
+                     <cell>3131</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Jehoſaphat</hi>
+                     </cell>
+                     <cell>25</cell>
+                     <cell>Chap. 20. 31</cell>
+                     <cell>3156</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Jehoram</hi>
+                     </cell>
+                     <cell>08</cell>
+                     <cell>Chap. 21. 20</cell>
+                     <cell>3164</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Ahaſiah</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>Chap: 22. 2</cell>
+                     <cell>3165</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Athaliah</hi> the Queen</cell>
+                     <cell>07</cell>
+                     <cell>verſe 12</cell>
+                     <cell>3272</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Johas</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>Chap. 24. 1</cell>
+                     <cell>3212</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Amaziah</hi>
+                     </cell>
+                     <cell>29</cell>
+                     <cell>Chap. 25. 1</cell>
+                     <cell>3241</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>zziah</hi> or <hi>Azariah</hi>
+                     </cell>
+                     <cell>52</cell>
+                     <cell>Chap. 26. 13</cell>
+                     <cell>3293</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Jotham</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>Chap. 27. 1</cell>
+                     <cell>3309</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Ahaz</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>Chap. 28. 1</cell>
+                     <cell>3325</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Hezekiah</hi>
+                     </cell>
+                     <cell>29</cell>
+                     <cell>Chap. 29. 1</cell>
+                     <cell>3354</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Manaſſeh</hi>
+                     </cell>
+                     <cell>55</cell>
+                     <cell>Chap. 33. 1</cell>
+                     <cell>3409</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Amon</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>verſe 21.</cell>
+                     <cell>3411</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Joſiah</hi>
+                     </cell>
+                     <cell>31</cell>
+                     <cell>Chap. 34. 1</cell>
+                     <cell>3442</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Jehojakim</hi> or <hi>Eliakim</hi> is all one, 2 <hi>Chron</hi> 36. 4. he Reigned in <hi>Jeruſalem:</hi> but <hi>Nebuchadnezar</hi> carried him to <hi>Babylon. Jehojachin</hi> Son of <hi>Jehojakim</hi> or <hi>Eliakim</hi> being made King Reigned 3 Months and 10 Days; &amp; was carried to <hi>Baby<g ref="char:EOLhyphen"/>lon:</hi> alſo both Reigned but 6 Months and 10 Da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s.</cell>
+                     <cell> </cell>
+                     <cell>Chap. 36 <hi>Daniel</hi> 1. 1 verſe 6 verſe 9 verſe 11</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell rows="2">At the end of <hi>Joſiah</hi>'s Reign who Reign'd <hi>(Jehoahaz</hi> 3 Months, and <hi>Jehojachin</hi> 3 Months,) <hi>Jehojakim</hi> was carried to <hi>Babylon</hi> after he had Reigned 2 Years, for in the 3d Year of his Reign <hi>Nebuchadnezar</hi> took him.</cell>
+                     <cell>31</cell>
+                     <cell>2 <hi>Chron.</hi> 34. 1 Chap. 36. 5 verſe 9</cell>
+                     <cell>3442</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>02</cell>
+                     <cell>
+                        <hi>Dan.</hi> 1. 1</cell>
+                     <cell>3444</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Now doubtleſs begins the Captivity, and although <hi>Zedekiah</hi> was ſaid to Reign 11 Years, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>et he was made K. by <hi>Nebuchadnezar</hi> to whom he was in
+<pb facs="tcp:152782:6"/> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>is Reign is not here to be Accounted; for he Re<g ref="char:EOLhyphen"/>belled againſt him and broke his Oath: ſo here comes in the Captivity, which continued 70 Years, &amp; which ended the <hi>Babylonian</hi> or <hi>Caldean Monarchy,</hi> or Em<g ref="char:EOLhyphen"/>pire; which was in the firſt Year of <hi>Cyrus</hi> King of <hi>Perſia</hi> who gave out a Pro<g ref="char:EOLhyphen"/>clamation or a Command to Build the Houſe of the Lord in <hi>Jeruſalem</hi> as you may ſee in 2 <hi>Chron.</hi> 36. 21, 22, 23. and in <hi>Ezra</hi> 1. 1. 3.</cell>
+                     <cell>70</cell>
+                     <cell>2 Chron. 36 21, 22, 23 <hi>Ezra</hi> 1. 1. verſe 2, 3</cell>
+                     <cell>3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>From this Command of <hi>Cyrus</hi> to Chriſt's Suffering, we are not to reckon full 70 Weeks or 490 Years, as ſome account, but only 69 Weeks and an half, or 486 Years: for in <hi>Dan,</hi> 9 25. it is ſaid, there ſhall be 7 Weeks, &amp; Threeſcore and 2 Weeks; that is 69 and After Threeſcore and 2 Weeks ſhall th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Meſſiah</hi> be cut off, and at verſe 27, it is ſaid, He ſhall confirm the Covenant with many for one Week; and in the midſt of the Week he ſhall cauſe the Sacrifices &amp; Oblations to ceaſe; And that was when he was Offered up once for all.</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Dan,</hi> 9. 25, 26 verſe 27 <hi>Hebrews</hi> 9</cell>
+                     <cell>40<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <pb n="7" facs="tcp:152782:6"/>
+                  <row>
+                     <cell> </cell>
+                     <cell>SO that by this true Account, our Bleſſed Saviour Suffer<g ref="char:EOLhyphen"/>ed for Man's Salvation, in the Fourth Thouſand Year of the World; or as ſome Account in the 80th Jubile from the Creation, Forty Hundred Year after the firſt Promiſe made to <hi>Adam</hi> and his Wife. For the Jubile being Fifty Years, 4000 or Forty Hundred Years, makes 80 Jubilies or 4000 Years. <hi>Leviticus</hi> 25. 9, 10, 11, <hi>&amp;c,</hi>
+                     </cell>
+                     <cell>4000</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>And the beſt Authors do conclude, that Chriſt Died in the 4000 Year of the World; and to begin with the Tra<g ref="char:EOLhyphen"/>vels of the Partriarchs, written by <hi>Henry Bunting,</hi> and Printed at <hi>London,</hi> in <hi>Anno Domini</hi> 1629: in page the 416, he ſaith, That the Angel <hi>Gabril</hi> in the Year of the World 3967, declared to the Virgin <hi>Mary</hi> the Conception of Chriſt, in which Year he was Born; to which if we add 33 being the time he lived on Earth, it makes up juſt 4000. And in page 431 he ſaith, That Chriſt was brought from <hi>Bethlehem</hi> to <hi>Jeruſalem</hi> and preſented in the Temple in the ſame Year 3967; to which add 33, and it makes juſt the ſame 4000 Years as aforeſaid.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>There are above Twenty places more in the ſaid Mr. <hi>Buntin</hi>'s Book, that concludeth Chriſt Died in the 4000 Year of the World or 80th Jubile; as ſaith <hi>Thomas Heynes</hi> in his <hi>General View of the Holy Scriptures,</hi> page 159 and Mr. <hi>Thomas Brightman</hi> in his <hi>Expoſition on the Revelations,</hi> page 1083, goes one Year over, and makes the World to be at Chriſt's Death 4001: which is ſo near the matter that it admits of no Diſpute.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>I could name many Authors that hits the very Year, of 4000 at Chriſt's Death: but I am not willing to enlarge beyond what I intended, for my intention was to make a Short, Brief and True Chronicle.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>It is ſaid, that <hi>Solomon</hi> in the 4th Year of his Reign be<g ref="char:EOLhyphen"/>gan to Build the Houſe of the Lord in the 480th Year after the Children of <hi>Iſrael</hi> came out of the Land of <hi>Egypt,</hi> 1 <hi>Kings</hi> 6. 12; but by Collecting the ſeveral Years from the firſt of <hi>Judges</hi> to the 16th, and ſo on to <hi>Solomon</hi>'s 4th Year, and you will find it to be 580 Years. So that Dr. <hi>William Howel</hi> and ſome of the Antients are of Opinion, that there are an 100 Years ommited in that of the 1 <hi>Kings</hi> 6. 12;
+<pb n="8" facs="tcp:152782:7"/> which as he ſaith (in his <hi>Sacrad Hiſtory,</hi> page 44) might be ommited by the Neglect or want of Care of the Clerks or Scribes that firſt Writ it, it being but the Hiſtorical part of the Scripture.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>It is ſaid that <hi>Shamgar</hi> who ſlew 600 <hi>Philiſtines</hi> with an Ox Goad, that he Judged <hi>Iſrael,</hi> but how long is not mentioned. It is likewiſe ſaid that <hi>Sampſon</hi> Judged <hi>Iſrael</hi> 20 Years; and <hi>Ely</hi> Judged 40; but all this time was while the <hi>Philiſtines</hi> Ruled over <hi>Iſrael:</hi> therefore I leave out the time that <hi>Shamgar, Sampſon</hi> and <hi>Ely</hi> Judged, out of this Ac<g ref="char:EOLhyphen"/>count, becauſe their time of Judging was in the 40 Years that the <hi>Philiſtines</hi> Ruled; and yet for all that, I find 580 Years inſtead of 480, mentioned as aforeſaid.</cell>
+                     <cell>
+                        <hi>Ju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> 3. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Acts</hi> 13</cell>
+                     <cell>And further to ſtrengthen what is aforeſaid, ſee what St. <hi>Paul</hi> ſaith in the 13th of the <hi>Acts</hi> &amp; 18th verſe, and ſo on he confirms the ſame, ſpeaking of the Children of <hi>Iſrael</hi> he ſaith, that about the ſpace of 40 Years God ſuffered their manners in the Wilderneſs. (that was when <hi>Moſes</hi> led them out of <hi>Egypt)</hi> So here let us begin a New Account, from their coming out of <hi>Egypt</hi> to the 4th Year of <hi>Solomon.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>They were led by <hi>Moſes</hi> in the Wilderneſs 040 Years</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Joſhua</hi> Subdued &amp; Divided the Land 007</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>After that he gave them Judges, (whereof <hi>Joſhua</hi> was the firſt) by the Space of 450 Years</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Afterward they deſired a King, and God gave them</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Saul</hi> the Son of <hi>Kiſh</hi> by the Space of 040</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Afterward <hi>David</hi> Reigned 1 <hi>Kings</hi> 2. 11 040</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>After <hi>David</hi> to the begining of <hi>Solomon's</hi> 4th Year 003</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>So by St. <hi>Paul</hi>'s account alſo he makes it 580</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>So that Doubtleſs there is an Omiſſion of an Hundred Years in that 1 <hi>Kings</hi> 6. 12.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Now obſerve that at the end of 2000 Years after the Promiſe made to <hi>Adam,</hi> which happened to be in the 52d Year of <hi>Abraham</hi>'s Life, the ſame Lord God renewed his Promiſe to <hi>Abraham,</hi> which he had made to <hi>Adam</hi> juſt 2000 Years before.</cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="9" facs="tcp:152782:7"/>
+                  <row>
+                     <cell> </cell>
+                     <cell>Now certainly <hi>Abraham</hi> could not be leſs than 30 or 32 Years Old when he took <hi>Sarah</hi> to Wife; for all his Prede<g ref="char:EOLhyphen"/>ceſſors for Six or Seven Generations before took them Wives or had their Firſt-Born about that Age, and they Lived in <hi>
+                           <g ref="char:V">Ʋ</g>r,</hi> their Native Country in <hi>Chaldea</hi> for 20 Years more, at leaſt, before God call'd <hi>Abraham</hi> to leave his Country: for his Wife (it is ſaid) was barren, and there muſt needs be ſome Space of time to prove her Barrenneſs.</cell>
+                     <cell>
+                        <hi>See Gene<g ref="char:EOLhyphen"/>ſis</hi> 11</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eneſis</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> &amp; 17</cell>
+                     <cell>And if <hi>Abram</hi> took <hi>Sarah</hi> at his Age of 32, then was <hi>Sarah</hi> but 22; for ſhe was Ten Years younger than he, and 20 Years after, when <hi>Abraham</hi> was 52, God then called him out of his Native Country, to go into a Land which he would ſhew him; and withal Renewed to <hi>Abraham</hi> the Promiſe he had made to <hi>Adam,</hi> juſt 2000 Years before; in which time were Twenty Generations; that was Ten from <hi>Adam</hi> to <hi>Noah;</hi> and Ten from <hi>Noah</hi> to <hi>Abraham</hi> as before.</cell>
+                     <cell>
+                        <hi>Geneſis</hi> 2, 3.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>So that it is very conſiderable to be Obſerved, that as God Renewed his Promiſe to <hi>Abraham,</hi> which he had made to <hi>A<g ref="char:EOLhyphen"/>dam</hi> juſt 2000 Years before, ſo that juſt 2000 Years more by the Death of the <hi>Meſſiah,</hi> God fulfilled his firſt Promiſe made to <hi>Adam,</hi> and his Second made <hi>Abraham,</hi> by Bruiſing the Serpent's Head, by the Death and Suffering of <hi>Chriſt</hi> our Bleſſed Saviour and Redeemer, at the end of the Second 2000 Years, or the end of 4000 Years from <hi>Adam.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>When I was but a child of about 8. or 9, Years old, I was a diligent liſtner to all Mens Diſcourſe; ſo that I would forſake my play-fellows and ſtand at the backs of the Men (if Diſcourſing) to hear their diſcourſe; about which time I heard ſome ſay that the World was to continue 6000 Years; which they divided thus; 2000 before the Law; 2000 under the Law; and 2000 under the Goſpel; and this dicourſe I do remember ſince before the Year 1630, which this Year 1700 is now 70 Years ſince; which I have pon<g ref="char:EOLhyphen"/>dered in my mind, but I find that they were much out of the way: for if they had placed the firſt 2000 Years from the Creation, to the two and fiftieth Year of <hi>Abram</hi>'s age, (being the time when GOD called him out of his Native Country, and renewed the promiſe to him which he made
+<pb n="10" facs="tcp:152782:8"/> to <hi>Adam</hi> 2000 Years before,) and from thence to the Death of Chriſt other 2000; and the Third 2000 in <hi>Anno Domi.</hi> 2033 if ſo their diſcourſe had been more credible and more true, and very certain.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>So that in <hi>Anno. Dom.</hi> 1700. being 1667. Years ſince the Suffering of Chriſt, to which add 4000. that was before his Death, and ſince <hi>Adams</hi> Creation to this preſent Year of our LORD 1700; the world is juſt 5667 Years old, as hath been proved: ſo that 333. Years hence, the world will be 6000 Years old; before which time there well be neither Pope nor Turk left in this world, I hope and believe.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>But then look for the Reſurrection of the juſt, or firſt Re<g ref="char:EOLhyphen"/>ſurection; and the Begining of the Seventh Thouſand Year, wherein Chriſt ſhall Reign; and at the end thereof will be the ſecond, or latter Reſurection, and the Diſſolution of this world, as you may ſee in Rev. 20, <hi>v.</hi> 5. 6. and 1 Theſ. 4 16. the dead in Chriſt ſhall riſe firſt: ſo that from this preſent Year of our LORD 1700 there is but 333. Years to come, to compleat &amp; fulfill all Propheſies; &amp; to end the 6000 Years of this evil world: <hi>and to Raiſe the Righteous from their Graves to meet the LORD Chriſt in the Air, at his coming, and to Reign with him, and wait upon him for the</hi> 1000 <hi>Years, till the Second or latter Reſurection; and for ever; where and how he ſhall apoint them. And then Bleſſed indeed ſhall they be for ever, to whom the LORD ſhall ſay, come ye Bleſſed,</hi> &amp;c. <hi>but endleſs wee will be to them, to whome it ſhall be ſaid, Go ye Curſſed or, Depart ye Curſsed into Everlaſting fire, prepared for the Devil and his Angles Math.</hi> 25. 41.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>But bleſſed and Holy is he that hath part in the firſt Re<g ref="char:EOLhyphen"/>ſurrection; for on ſuch the Second Death hath no power: but they ſhall be Prieſts of GOD, and of Chriſt; and ſhall Reign with him a 1000 Years, Rev. 20. 6. At or about the end thereof, Satan who was chained up for 1000 Years, ſhall then be Looſed for a little Seaſon, v. 3, and ſhall go out to Deceive the Nations, which are in the four <hi>Quarters</hi> of the Earth, as he had formerly done before he was bound up to make them wicked againſt the Second or laſt Reſurection;
+<pb n="11" facs="tcp:152782:8"/> then ſaith <hi>John</hi> v. 1, 2, <hi>I ſaw the Dead Small and Great</hi> ſtand before GOD, and the <hi>Books was opened, and another Book was opened, which is the Book of life; and the Dead were Judged out of thoſe things which were written in the Books, ac<g ref="char:EOLhyphen"/>cording to their works</hi> Cha. 20. 12. and Cha. 14, 13, <hi>and the Sea gave up the dead, which was in it, and Death</hi> &amp; <hi>Hell De<g ref="char:EOLhyphen"/>livered up the dead that were in them; and they were judged every Man according to their works,</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Now obſerve and conſider, <hi>Firſt,</hi> that in or about the Year of the world 1780. <hi>Babel</hi> the <hi>Tower</hi> and <hi>City</hi> of confuſion, was in building but God <hi>confounded their work</hi> &amp; <hi>Language.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Secondly conſider alſo from the Birth of Chriſt, till the Year of Chriſt 1780. MISTIRY BABILON THE GREAT; THE CHEIF CITY OF IDOLATRY AND CONFU<g ref="char:EOLhyphen"/>SION, may, and I hope will come to her laſt end, or the end of that beaſt, or Antichriſt his 1260 Days or Years.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Thirdly, conſider to Begin the 2300. Days (which doubt<g ref="char:EOLhyphen"/>leſs are years) mentioned in <hi>Daniel</hi> 8. 14. I ſay to Begin them before the Birth of Chriſt 520. Years, and from thence to <hi>Hormiſda Biſhop</hi> of <hi>Rome,</hi> and Firſt that was called <hi>Par<g ref="char:EOLhyphen"/>triarch</hi> there; and alſo the Firſt that was, (or ſtrove to be) called <hi>
+                           <g ref="char:V">Ʋ</g>niverſal Biſhop;</hi> tho he held not that Title above 2 Years: I ſay from the <hi>Birth</hi> of Chriſt, to the ſaid <hi>Hormiſda,</hi> was Juſt 520 Years more, which makes 1040 to which add the whole time of Antichriſt, or the Beaſt 1260, and all theſe numbers will end together in Anno. Domini. 1780.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Then ſhall the Sanctuary be Cleanſed as the Angel told <hi>Daniel</hi> Chap. 8. 14. 15. <hi>&amp;c.</hi> that is juſt 80. Years to be compleated from this preſent Year 1700. <hi>viz.</hi> the Year 1780. which I hope, and believe is all the time that that Beaſt or <hi>Antichriſt</hi> has to Reign.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Mr. <hi>John Tillinghurſt</hi> a Miniſter in <hi>Yarmouth</hi> in <hi>Norfolk,</hi> in or about the Year 1651. or 52 Printed a Book in large Octavo, called the Knowledge of times; wherein he ſtrove to end all the aforeſaid Numbers in the Year 1656. but there was more deſired that it might prove true, then did belive it to be true<g ref="char:punc">▪</g> but when it was ſeen to fail, to Excuſe the
+<pb n="12" facs="tcp:152782:9"/> miſtake, they added ten Years more to Antichriſts Reign, &amp; in 1666. down he muſt by all means: but I bore my Teſtimonie againſt both thoſe periods, as having no Foundation, or right time of begining his Account. I could recite many <hi>Errors</hi> in Mr. <hi>Tillinghurſt</hi>'s book, although at that time, it was highly eſ<g ref="char:EOLhyphen"/>teemed &amp; cry'd up: but I am loath to inlarge any more at this time; therefore what I have hear already writ, I leave to the ſe<g ref="char:EOLhyphen"/>rious conſideration of every one that takes delight in the <hi>know<g ref="char:EOLhyphen"/>ledge</hi> of theſe <hi>things,</hi> &amp; of the <hi>times,</hi> which if it may be <hi>approved</hi> of or deſired, or ſervicable to this preſent or future generations, that any thing therein be worthy of praiſe, give that to God only; and if the like of it was ever done by any before, yet it was not done by any ſo Meanly Learned as the Writer there<g ref="char:EOLhyphen"/>of, much of whoſe Knowledge in theſe things he has ga<g ref="char:EOLhyphen"/>thered by dicourſe, long Experience, much reading the Holy Scriptures, in which he delighted moſt; alſo in Chronicles and other Authentick Hiſtory, But his cheif Inſtructer was God. I am now paſt 81 years of Age, &amp; believe, that a child born this Year 1700, and ſhall live ſo long in this World as I have done, may ſee the laſt Pope that will bear ſway in <hi>ROME.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>At the Death of <hi>Belſhazzar,</hi> was the end of the <hi>Babilo<g ref="char:EOLhyphen"/>nian</hi> or <hi>Caldean Monarchy, Dan.</hi> 5. At which time the <hi>Median</hi> or <hi>Perſian Monarchy</hi> began to be Great; ſoon after which time the <hi>Jews</hi> were Delivered out of Captivity, a<g ref="char:EOLhyphen"/>bout the Year of the World 3510, after which the <hi>Perſian Monarchy</hi> continued about 214 as ſome Account, which end<g ref="char:EOLunhyphen"/>ed about <hi>Anno Mundi,</hi> 3724.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>About which time it was Subdued by the <hi>Graecian Mon<g ref="char:EOLhyphen"/>arch, Alexander the Great;</hi> after whoſe Death his Domi<g ref="char:EOLhyphen"/>nions were Confuſed and Divided into ſeveral Diviſions, but chiefly Four; all which about 234 Years more, were Subdued by <hi>Julius Caeſar</hi> the Firſt Roman Emperor, in or about the Year of the World 3956: And now they leave off to Reckon in all publick Account, by the Year of the World; and from thenceforth all is Reckoned from the beginning of <hi>Caeſar</hi>'s Reign, when he had Subdued all the
+<pb n="13" facs="tcp:152782:9"/> fore-named Monarchies to the Obedience of <hi>Rome;</hi> and that Account was continued all along during the Reigns of all the Heathen Emperors, till <hi>Conſtantine the Great;</hi> about which time they begun to Account from the Nativity of our Redeemer Chriſt Jeſus. Now obſerve, <hi>John</hi> Writ the Re<g ref="char:EOLhyphen"/>velations in the time of that Account, which began when <hi>Julius Caeſar</hi> began to Reign, which was before the Nati<g ref="char:EOLhyphen"/>vity of <hi>Chriſt</hi> juſt 44 Years. To which if we add after <hi>Chriſt</hi>'s Nativity 622, it makes up that Miſtical Number of <hi>(Revel.</hi> 13, and the 18 or laſt verſe, which <hi>John</hi> ſaith is the Number of a Man which was to Riſe, and did Riſe in that very Year. As I have in the following book more at large ſet forth, and ſufficiently proved <hi>Maho<g ref="char:EOLhyphen"/>met</hi> to be the Second Beaſt mentioned in the 13 of the Re<g ref="char:EOLhyphen"/>velations, and the very Image of the <hi>Pope</hi> who is the firſt Beaſt there mentioned.</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="text">
+            <head>To find how many <hi>Shekles</hi> make a TALENT.</head>
+            <p>IN <hi>Exodus</hi> 38. 26 and 29 it is there ſaid, that 603550 Men offered every Man a <hi>Bekah</hi> or an half <hi>Shekle;</hi> one half thereof is 301775 whole <hi>Shekles,</hi> according to the <hi>She<g ref="char:EOLhyphen"/>kle</hi> of the Sanctuary, which by computation, is Two Shillings and Six-pence, or Half a Crown <hi>Engliſh.</hi>
+            </p>
+            <p>One half of that Sum is 150887 whole Crowns, and one Half Crown. Half of the ſaid Crowns make 75443 and an half, theſe are Angels or half Pounds, Half of the ſaid Angels makes 37721 Pounds, Ten Shil<g ref="char:EOLhyphen"/>lings. The Total of this Great Offering amounts (be<g ref="char:EOLhyphen"/>ing Reckoned after our Engliſh Pounds) to the Sum of 37721 Pounds 17 Shilllings and 6 Pence.</p>
+            <pb n="14" facs="tcp:152782:10"/>
+            <p>Now to know how many of theſe make a Talent. the 301775 being <hi>Shekles</hi> or half Crowns, and being Divided by 3000, the <hi>Quotient</hi> will be 100, (that is an Hundred Talents) and 1775 <hi>Shekles</hi> remaining, ſo that this remain<g ref="char:EOLhyphen"/>der is but part of a Talent, and ſo would 2999 be but part becauſe it wanted one of 3000 which is a Talent, So that 3000 <hi>Shekles of the Sanctuary,</hi> which is a Talent, is in Value of Engliſh Money 375 Pound. But if we Reckon 3000 of the common <hi>Shekles,</hi> it comes but to one half of the <hi>Shekle of the Sanctuary,</hi> which is but 187 Pound ten Shillings.</p>
+            <p>
+               <table>
+                  <head>Certain Scriptures Juſtifying and Vindicating juſt and Law<g ref="char:EOLhyphen"/>ful Weights, Ballances and Meaſures, and Condemning thoſe that Uſe the contrary.</head>
+                  <row>
+                     <cell>
+                        <hi>Levi.</hi> 19th verſe 35.</cell>
+                     <cell>
+                        <hi>YE ſhall do no <g ref="char:V">Ʋ</g>nrighteouſneſs in Judgment, in Mete, Yard Weight, or in Meaſure.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>verſe 36.</cell>
+                     <cell>
+                        <hi>Juſt Ballances, juſt Weights, a juſt Ephah and a juſt Hin ſhall ye have.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Deut.</hi> 25. verſe 13.</cell>
+                     <cell>
+                        <hi>Thou ſhalt not have in thy Bag divers</hi> weigth, <hi>a great, &amp; a ſmall</hi> (that is a great one to Buy by, &amp; a ſmall one to Sell by.)</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>verſe 14.</cell>
+                     <cell>
+                        <hi>Thou ſhalt not have in thine Houſe divers Meaſures a great and a ſmall.</hi> [* Beware of this you that are Gulilty]</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>verſe 15.</cell>
+                     <cell>
+                        <hi>But thou ſhalt have a Perfect and Juſt Weight, a Perfect and Juſt Meaſure ſhalt thou have, that thy Days may be long lengthened in the Land which the Lord thy God giveth thee. For all that do ſuch things, and all that do <g ref="char:V">Ʋ</g>nrighteouſly, are an Abomination unto the Lord thy God.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>verſe 16.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Prov.</hi> 11. 1</cell>
+                     <cell>A <hi>Falſe Ballance is Abomination to the Lord, a juſt Weight in his Delight.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Ch. 16. 11</cell>
+                     <cell>A <hi>juſt Weight and Ballance are the Lords, all the Weights of the Bag are his Work.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Ch. 20. 10</cell>
+                     <cell>
+                        <hi>Divers Weights and divers Meaſures, both of them are a like Abomination to the Lord.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Ch. 20. 23.</cell>
+                     <cell>
+                        <hi>Divers Weights are an Abomination unto the Lord, And a falſe Ballance is not good.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="15" facs="tcp:152782:10"/>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 6. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 11.</cell>
+                     <cell>
+                        <hi>Shall I count them pure with the wicked Ballance, and with the Bag of Deceitful Weights.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>7. 12</cell>
+                     <cell>
+                        <hi>Therefore all things whatſoever ye would that Men ſhould do unto you, do ye even ſo to them.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>6. 31.</cell>
+                     <cell>
+                        <hi>For this is the Law and the Prophets.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <div type="poem">
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> HEre <hi>Adam</hi> ſtands, the firſt of all.</l>
+               <l> Although in him we all did Fall.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Then <hi>Seth</hi> was rais'd in <hi>Abel</hi>'s ſtead,</l>
+               <l> Who was by Wicked <hi>Cain ſtruck Dead.</hi>
+               </l>
+               <l> When <hi>Seth</hi> an Hundred Years and Five.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                  <hi>Enos</hi> his Son became alive.</l>
+               <l> When he had Lived Ninty Year<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+                  <hi>Cainain</hi> his Son did then appear.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+                  <hi>Maheleal</hi> at Seventy more,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> 
+                  <hi>Jared</hi> his Son Named before.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> From <hi>Jared</hi> Righteous <hi>Enoch</hi> Sprung,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> And then <hi>Methſala</hi> begun.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> Then <hi>Lamech</hi> Father unto <hi>Noah,</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> The Tenth from <hi>Adam</hi> I find ſo:</l>
+               <l> 
+                  <hi>Noah</hi> made an <hi>Ark</hi> to ſave himſelf;</l>
+               <l> Wife, Sons and Daughters and their Wealth;</l>
+               <l> All this he did, at God's Command</l>
+               <l> Before the Lord Deſtroyed the Land.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> 
+                  <hi>Arphaxad</hi> next, the Son of <hi>Shem,</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/> Of the Right Line began again;</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13. 14"/> 
+                  <hi>Selah</hi> and <hi>Eber</hi> next I find.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15 16"/> 
+                  <hi>Peleg</hi> and <hi>Reu</hi> of the ſame Kind.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18 19"/> Then <hi>Serug, Nahor</hi> and <hi>Terah;</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> And now to <hi>Abraham</hi> we draw,</l>
+               <l> Which was the Tenth from <hi>Noah</hi> and then</l>
+               <l> The Twentieth from the firſt of Men,</l>
+               <l> To whom the Promiſe God renew'd,</l>
+               <l> Which <hi>Chriſt</hi> did at his Death conclude.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:152782:11"/>
+            <head>POSTSCRIPT <hi>To the Reader.</hi>
+            </head>
+            <p>IN the Printing of this ſmall <hi>Chronicle,</hi> I found that it did <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fill Two Sheets of Paper; therefore (with the Advice of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Printer,)</hi> I added ſomething which I thought convenient <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be known, to fill up the Second Sheet; concerning <hi>Sheck<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Talents<g ref="char:punc">▪</g> Juſt Weights</hi> and <hi>Meaſures,</hi> and ſome other things: A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when I had ſo done, I thought theſe Two Sheets too little to be pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>liſhed alone; and therefore I have added to them, Ten She<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more, which here follows, being; <hi>A Brief Expoſition of the Th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>teenth Chapter of the Revelation;</hi> concerning the <hi>Two Beaſts</hi> ther<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mentioned, wherein that Miſtical Number of 666 is fully Explai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed, not to belong to the <hi>Firſt Beaſt,</hi> mentioned in t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e firſt Ten ver<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which doubtleſs is the <hi>Pope:</hi> but there are Eight verſes more, whi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> properly belongs to the <hi>Second Beaſt;</hi> to whom the Number doth a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> belong, (and not the <hi>Pope;)</hi> although ſo many Famous and Lear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed Men have endeavoured to make that Number belong to hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not Building upon the right Foundation, which was the cauſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Great <hi>Miſtake,</hi> as to the Number and the Perſon alſo, to whi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it doth properly belong, as by Reading and Underſtanding the fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lowing Diſcourſe may Satisfie the <hi>Impartial</hi> Reader, although Exceedingly Differs from all that ever yet was made publick as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Latter Beaſt.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
